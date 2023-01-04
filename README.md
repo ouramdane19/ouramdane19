@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ouramdane
 - 👀 I’m interested in anything related to programming and automation
-- 🌱 I’m currently learning how to use Azure Devops with salesforce ( CI / CD)
+- 🌱 I’m currently learning how to develop with Mulesoft ( Great tool)
 - 📫 How to reach me ? : ouramdanegithubaccount@ouramdane.anonaddy.com
 - 
 
