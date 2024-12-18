@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ouramdane
+- 👋 Hi, I’m @ouramdane ( Salesforce developer)
 - 👀 I’m interested in anything related to programming and automation
 - 🌱 I’m currently learning data engineering
 - 📫 How to reach me ? : ouramdanegithubaccount@ouramdane.anonaddy.com
