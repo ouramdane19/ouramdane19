@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ouramdane ( Salesforce developer)
 - 👀 I’m interested in anything related to programming and automation
-- 🌱 I’m currently learning data engineering
+- 🌱 I’m currently developping application with Angular,Java,Spring boot,NgRx,Leaflet..
 - 📫 How to reach me ? : ouramdanegithubaccount@ouramdane.anonaddy.com
 
 <!---
